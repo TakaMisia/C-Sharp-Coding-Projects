@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\bin\Debug\net6.0\Price-Quote Application.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\bin\Debug\net6.0\Price-Quote Application.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\bin\Debug\net6.0\Price-Quote Application.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\bin\Debug\net6.0\Price-Quote Application.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\bin\Debug\net6.0\Price-Quote Application.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\refint\Price-Quote Application.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\Price-Quote Application.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Price-Quote Application\obj\Debug\net6.0\ref\Price-Quote Application.dll
