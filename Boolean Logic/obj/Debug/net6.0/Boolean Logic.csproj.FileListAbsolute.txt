@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\bin\Debug\net6.0\Boolean Logic.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\bin\Debug\net6.0\Boolean Logic.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\bin\Debug\net6.0\Boolean Logic.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\bin\Debug\net6.0\Boolean Logic.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\bin\Debug\net6.0\Boolean Logic.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\refint\Boolean Logic.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\Boolean Logic.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Boolean Logic\obj\Debug\net6.0\ref\Boolean Logic.dll
