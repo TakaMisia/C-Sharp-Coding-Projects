@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\bin\Debug\net6.0\Iteration.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\bin\Debug\net6.0\Iteration.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\bin\Debug\net6.0\Iteration.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\bin\Debug\net6.0\Iteration.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\bin\Debug\net6.0\Iteration.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\refint\Iteration.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\Iteration.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Iteration\obj\Debug\net6.0\ref\Iteration.dll
