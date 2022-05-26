@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\bin\Debug\net6.0\Exception Assignment.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\bin\Debug\net6.0\Exception Assignment.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\bin\Debug\net6.0\Exception Assignment.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\bin\Debug\net6.0\Exception Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\bin\Debug\net6.0\Exception Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\refint\Exception Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\Exception Assignment.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Assignment\obj\Debug\net6.0\ref\Exception Assignment.dll
