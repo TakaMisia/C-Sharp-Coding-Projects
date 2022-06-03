@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\bin\Debug\net6.0\class methods ass1.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\bin\Debug\net6.0\class methods ass1.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\bin\Debug\net6.0\class methods ass1.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\bin\Debug\net6.0\class methods ass1.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\bin\Debug\net6.0\class methods ass1.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\refint\class methods ass1.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\class methods ass1.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\class methods ass1\obj\Debug\net6.0\ref\class methods ass1.dll
