@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\bin\Debug\net6.0\Interfaces Assignment.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\bin\Debug\net6.0\Interfaces Assignment.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\bin\Debug\net6.0\Interfaces Assignment.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\bin\Debug\net6.0\Interfaces Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\bin\Debug\net6.0\Interfaces Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\refint\Interfaces Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\Interfaces Assignment.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Interfaces Assignment\obj\Debug\net6.0\ref\Interfaces Assignment.dll
