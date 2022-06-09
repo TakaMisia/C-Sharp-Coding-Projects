@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance_Assignment
+namespace Abstract_Classes_Assignment
 {
     class Employee : Person
     {
