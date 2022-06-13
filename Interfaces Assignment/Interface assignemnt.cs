@@ -13,7 +13,7 @@ namespace Interface_assignemnt
 
             Interfaces_Assignment.Employee employee = new Interfaces_Assignment.Employee();
             Interfaces_Assignment.IQuittable quit = new Interfaces_Assignment.Employee();
-
+            Interfaces_Assignment.IQuittable obj1 = new Interfaces_Assignment.Employee();
             quit.Quit(employee);
 
 
