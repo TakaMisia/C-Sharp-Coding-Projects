@@ -1,0 +1,5 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.csproj.CoreCompileInputs.cache
