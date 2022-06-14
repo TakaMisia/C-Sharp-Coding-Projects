@@ -3,3 +3,13 @@ C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloa
 C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.AssemblyInfoInputs.cache
 C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.AssemblyInfo.cs
 C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\bin\Debug\net6.0\Operator Overloading Assignment.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\bin\Debug\net6.0\Operator Overloading Assignment.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\bin\Debug\net6.0\Operator Overloading Assignment.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\bin\Debug\net6.0\Operator Overloading Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\bin\Debug\net6.0\Operator Overloading Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\refint\Operator Overloading Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\Operator Overloading Assignment.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Operator Overloading Assignment\obj\Debug\net6.0\ref\Operator Overloading Assignment.dll
