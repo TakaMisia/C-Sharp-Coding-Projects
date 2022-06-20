@@ -32,9 +32,9 @@ namespace Lambda_Expression_Assignment
                0, 1, 2, 3, 4
             };
 
+            Employee objects = new Employee();
             foreach (int index in Index)
             {
-                Employee objects = new Employee();
                 objects.Name = Names[index];
                 objects.Surname = Surnames[index];
                 objects.Age = Ages[index];
