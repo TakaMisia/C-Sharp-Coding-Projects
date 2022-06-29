@@ -6,28 +6,30 @@ using System.Threading.Tasks;
 
 namespace Operator_Overloading_Assignment
 {
-
-    class Employee
-    {
-        static void Main(string[] args)
+        class Employee 
         {
+            public int ID1 { get; set; }
+        public int ID2 { get; set; }
 
-            int ID1;
-            int ID2;
-
-            
-                ID1 = 0;
-                ID2 = 3;
-
-
+        public static bool operator == (Employee employee, Employee employee2)
+            {
             //summary
-            if (ID1 == ID2)
-                Console.WriteLine("error id is the same ");
-            else if (ID1 != ID2)
-                Console.WriteLine("both obejct have it diffrent ID");
 
-            Console.ReadLine();
+            if (employee.ID1 == employee.ID2)
+                return true;
+            else  
+                return false;
+            }
+            public static bool operator != (Employee employee, Employee employee2)
+            {
+                if (employee.ID1 == employee2.ID2)
+                    return true ;
+                else
+                    return false;
+            }
+          
+
 
         }
-    }
+    
 }
