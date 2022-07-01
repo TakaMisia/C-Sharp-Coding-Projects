@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\bin\Debug\net6.0\IO assignment.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\bin\Debug\net6.0\IO assignment.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\bin\Debug\net6.0\IO assignment.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\bin\Debug\net6.0\IO assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\bin\Debug\net6.0\IO assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\refint\IO assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\IO assignment.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\IO assignment\obj\Debug\net6.0\ref\IO assignment.dll
