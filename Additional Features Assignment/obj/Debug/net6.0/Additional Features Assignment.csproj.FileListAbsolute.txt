@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\bin\Debug\net6.0\Additional Features Assignment.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\bin\Debug\net6.0\Additional Features Assignment.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\bin\Debug\net6.0\Additional Features Assignment.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\bin\Debug\net6.0\Additional Features Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\bin\Debug\net6.0\Additional Features Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\refint\Additional Features Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\Additional Features Assignment.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Additional Features Assignment\obj\Debug\net6.0\ref\Additional Features Assignment.dll
