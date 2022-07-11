@@ -10,7 +10,7 @@ namespace Additional_Features_Assignment
     {
         static void Main(string[] args)
         {
-            sampleclass c = new sampleclass (10);
+            sampleclass var = new sampleclass (10);
             Console.Read();
         }
     }
