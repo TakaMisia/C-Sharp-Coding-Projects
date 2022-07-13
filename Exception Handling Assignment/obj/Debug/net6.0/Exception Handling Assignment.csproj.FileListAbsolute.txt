@@ -1,0 +1,15 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\bin\Debug\net6.0\Exception Handling Assignment.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\bin\Debug\net6.0\Exception Handling Assignment.deps.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\bin\Debug\net6.0\Exception Handling Assignment.runtimeconfig.json
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\bin\Debug\net6.0\Exception Handling Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\bin\Debug\net6.0\Exception Handling Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.AssemblyInfoInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.AssemblyInfo.cs
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\refint\Exception Handling Assignment.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\Exception Handling Assignment.genruntimeconfig.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\Exception Handling Assignment\obj\Debug\net6.0\ref\Exception Handling Assignment.dll
