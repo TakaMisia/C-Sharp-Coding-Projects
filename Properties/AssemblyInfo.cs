@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Informacje ogólne o zestawie zależą od poniższego
 // zestawu atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // związane z zestawem.
-[assembly: AssemblyTitle("NewAppMVC")]
+[assembly: AssemblyTitle("CarInsurance")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NewAppMVC")]
+[assembly: AssemblyProduct("CarInsurance")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Poniższy identyfikator GUID odpowiada atrybutowi ID biblioteki typów typelib, jeśli ten projekt jest uwidaczniany w modelu COM
-[assembly: Guid("6b2c52c0-8ef7-4da3-a507-4d8f5f7781ea")]
+[assembly: Guid("b16ecd18-4728-4608-a561-45105935e1a7")]
 
 // Informacje o wersji zestawu obejmują następujące cztery wartości:
 //
