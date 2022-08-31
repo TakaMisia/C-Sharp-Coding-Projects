@@ -1,0 +1,13 @@
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.AssemblyReference.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CoreCompileInputs.cache
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CopyComplete
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\00kas\Desktop\PITMAN\c# .net modules\Basic_C#_Programs\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb
